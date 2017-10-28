@@ -1,5 +1,5 @@
 # C-Easy
-This repository contains easy programs in C++
+This repository contains easy programs in C++.
 
 Time Conversion : 
 
